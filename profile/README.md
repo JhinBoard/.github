@@ -1,3 +1,3 @@
 ## Jhin 👋
 
-![overview](https://raw.githubusercontent.com/JhinBoard/.github/main/profile/overview-home.png)
+![overview](https://raw.githubusercontent.com/JhinBoard/.github/main/profile/overview-feature.png)
